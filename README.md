@@ -1,2 +1,6 @@
-이 코드는 호프만 이진 코드를 생성하는 코드입니다 ^_^
-재귀적으로 이진코드를 만들고 있습니다.
+HuffmanNode 
+ is_leaf(self) : Helper method to check if a node is a leaf (has no children)
+
+HuffmanCoding
+ tree_root(self) : Method for using heapq -> tree structure -> return root node
+ get_codes(self,node,current_code) : Method for generating binary codes recursively
