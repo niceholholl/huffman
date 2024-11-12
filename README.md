@@ -11,6 +11,6 @@ HuffmanCoding
 
 코드 실행방법.
 
-!git clone https://github.com/niceholholl/huffman/tree/main
+!git clone https://github.com/niceholholl/huffman
 
 !python /content/huffman/lsm.py
